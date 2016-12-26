@@ -1,5 +1,4 @@
 //Olga Hollister
-//11/9/2015
 //Collections Lab- Merge lists
 
 import java.awt.BorderLayout;
