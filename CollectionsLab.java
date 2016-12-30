@@ -1,5 +1,5 @@
 //Olga Hollister
-//Collections Lab- Merge lists
+//Collections-Merge lists
 
 import java.awt.BorderLayout;
 import java.awt.Color;
